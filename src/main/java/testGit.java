@@ -5,5 +5,7 @@ public class testGit {
         System.out.println("hello,branch");
         System.out.println("hello,branch-master");
         System.out.println("test conflict");
+        System.out.println("test pull");
+        
     }
 }
