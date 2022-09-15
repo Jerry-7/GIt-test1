@@ -3,5 +3,6 @@ public class testGit {
         System.out.println("hello,git");
         System.out.println("hello,git2");
         System.out.println("hello,branch");
+        System.out.println("test conflict");
     }
 }
